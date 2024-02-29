@@ -1,0 +1,2 @@
+# mini project-1
+ Overview This mini project is a simple web application created using HTML, Tailwind CSS, and JavaScript. The main functionality of the project is to count the number of times a button is pressed and display the count on the webpage.  Features Button Click Counter: Press the button, and the application will increment the count. Dynamic UI: The project utilizes Tailwind CSS for a clean and responsive user interface. Simple JavaScript Logic: JavaScript is employed to handle button clicks and update the count dynamically.
